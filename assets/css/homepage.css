@@ -65,6 +65,16 @@ nav {
     gap: 20px 20px;
 }
 
+#how-it-works i {
+    color: var(--sc-blue);
+    font-size: 400%;
+}
+
+.icon-text {
+    font-weight: 700 !important;
+    font-size: 120%;
+}
+
 /* images display */
 .grid-box {
     display: grid;
